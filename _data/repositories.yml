@@ -1,5 +1,5 @@
 github_users:
-  - kdesoto
+  - kdesoto-astro
   
 repo_description_lines_max: 2
 
@@ -8,5 +8,3 @@ github_repos:
   - VTDA-Group/superphot-plus
   - VTDA-Group/superphot-plus-antares
   - kdesoto-astro/survey-agnostic-sn-vae
-  - kdesoto-astro/iip-symbolic
-  - kdesoto-astro/decam-ddf-classification
