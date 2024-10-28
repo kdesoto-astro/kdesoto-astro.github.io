@@ -2,7 +2,7 @@
 layout: default
 permalink: /updates/
 title: updates
-nav: true
+nav: false
 nav_order: 6
 pagination:
   enabled: true

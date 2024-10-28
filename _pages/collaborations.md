@@ -4,7 +4,7 @@ permalink: /collaborations/
 title: collaborations
 description: affiliated research groups and co-authors
 nav: true
-nav_order: 3
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

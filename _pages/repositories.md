@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: open-source astronomy software related to research
-nav: true
+nav: false
 nav_order: 4
 ---
 
