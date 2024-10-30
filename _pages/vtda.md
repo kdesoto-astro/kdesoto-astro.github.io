@@ -1,0 +1,1 @@
+I'm a member of [Dr. Ashley Villar's Time Domain Astronomy group](http://astrotimelab.com/) at the Center for Astrophysics in Harvard University. Group research focuses on core-collapse supernovae, luminous red novae, and compact binary mergers, employing a combination of observation, simulations, and machine learning methodologies.
